@@ -13,5 +13,6 @@ System.out.println("College code is 1234");
 	// TODO Auto-generated method stub
 	int rank=125;
 System.out.println("College rank is "+rank);
+System.out.println();
 }
 }
